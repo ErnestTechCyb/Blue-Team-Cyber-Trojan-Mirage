@@ -37,4 +37,16 @@ The goal of the blue team were  to investigate a simulated ransomware attack on 
 
 ## Use Security Onions, Splunk, Palo Alto to run further investigation
 
+![Image Alt](
+
+![Image Alt](
+
+![Image Alt](
+
+![Image Alt](
+
+![Image Alt](
+
+![Image Alt](
+
 
