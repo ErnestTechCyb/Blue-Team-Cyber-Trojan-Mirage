@@ -49,6 +49,8 @@ The goal of the blue team were  to investigate a simulated ransomware attack on 
 
 ![Image Alt](https://github.com/ErnestTechCyb/Blue-Team-Cyber-Trojan-Mirage/blob/8b650c2223a1eb627635269647a54084aab06dde/palo%20alto%202.png)
 
+## Malware Analysis Investigation
 
+Main focused was on analyzing a potential malware incident involving a Word document with macros that could download and execute malicious files. I identified that the document contained a reverse TCP connection that would download cmd.exe and a Splunk forwarder, which would then spawn other processes including a virus scanner. 
 
-
+![Image Alt](
