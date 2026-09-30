@@ -45,7 +45,7 @@ The goal of the blue team were  to investigate a simulated ransomware attack on 
 
 ![Image Alt](https://github.com/ErnestTechCyb/Blue-Team-Cyber-Trojan-Mirage/blob/e2ab2c8b38a03533790eca02da9c3fa8066d4bc8/Security%20onion2.png)
 
-![Image Alt](
+![Image Alt](https://github.com/ErnestTechCyb/Blue-Team-Cyber-Trojan-Mirage/blob/e28ebb9745664e165ac1754dac58867ac8fe2040/palo%20alto%20network.png)
 
 ![Image Alt](
 
