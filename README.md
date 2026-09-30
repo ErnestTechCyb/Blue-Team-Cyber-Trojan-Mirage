@@ -62,4 +62,6 @@ Futhermore, I blocked two malicious IP addresses through Palo Alto networks fire
 
 ## Certificate earned
 
-![Image Alt](
+![Image Alt](https://github.com/ErnestTechCyb/Blue-Team-Cyber-Trojan-Mirage/blob/64996298843c64ca9e423d0d9e75d8601901e372/certificate%20earned%20.png)
+
+
