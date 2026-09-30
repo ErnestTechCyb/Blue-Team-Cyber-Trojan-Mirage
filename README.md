@@ -55,4 +55,10 @@ Main focused was on analyzing a potential malware incident involving a Word docu
 
 ![Image Alt](https://github.com/ErnestTechCyb/Blue-Team-Cyber-Trojan-Mirage/blob/28dd3b716075fd931fc3bcb0a9890686467ce93a/information%20-%20finding.png)
 
+##  Conclusion
+
+My main focused was to investigate a security incident involving a remote access Trojan (RAT) disguised as a Splunk forwarder, explaining the chain of events from the initial email attachment with a macro to the execution of malicious files. The team examined firewall logs to verify lateral movement and confirmed limited external network activity, with no further internal compromise detected. The conversation ended with plans to review two suspicious executables and implement immediate remediation steps to prevent future incidents.
+They agreed to block two malicious IP addresses through Palo Alto networks firewall, remove malicious files including a remote access Trojan and Word document, and conduct thorough documentation of the incident timeline. The group also planned to implement user training about avoiding downloads from untrusted sources and to hold a lessons learned meeting to discuss improved security policies and proactive measures.
+
+## Certificate earned
 
