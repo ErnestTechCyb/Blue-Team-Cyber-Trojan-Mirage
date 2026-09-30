@@ -53,4 +53,6 @@ The goal of the blue team were  to investigate a simulated ransomware attack on 
 
 Main focused was on analyzing a potential malware incident involving a Word document with macros that could download and execute malicious files. I identified that the document contained a reverse TCP connection that would download cmd.exe and a Splunk forwarder, which would then spawn other processes including a virus scanner. 
 
-![Image Alt](
+![Image Alt](https://github.com/ErnestTechCyb/Blue-Team-Cyber-Trojan-Mirage/blob/28dd3b716075fd931fc3bcb0a9890686467ce93a/information%20-%20finding.png)
+
+
