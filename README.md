@@ -29,6 +29,8 @@ remediation.
 
 ![Image Alt](https://github.com/ErnestTechCyb/Blue-Team-Cyber-Trojan-Mirage/blob/6556924010b2920279f3042d1c9d80cc3ce369c3/message.png)
 
+I reviewed the process of investigating a potential compromise on Safina's workstation, by checking recent downloads and system changes. I identified that the incident appeared to involve an email and a Word document download, I started documenting my findings and cross-referencing timestamps to understand the extent of the incident.
+
 ## Project feedback
 
 The goal of the blue team were  to investigate a simulated ransomware attack on Zafina Young's workstation. The session involved analyzing network topology, examining log files in Splunk and Security Onion tools, and identifying indicators of compromise including external IP addresses and malicious files. Through the process I learned to trace the attack vector from a macro-enabled Word document download through reverse TCP connections to a remote access Trojan (RAT) that displayed full-screen warning messages and altered desktop wallpaper. The investigation revealed that the attack started with spear phishing targeting specific user Zafina Young, with the malicious chain involving email attachments, disabled macros, and multiple executable files masquerading as legitimate system processes. In addition, I identified and executed the key remediation steps including blocking the external IP addresses, removing malicious files, documenting the incident, and implementing user training to prevent future attacks.
