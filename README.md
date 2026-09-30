@@ -15,7 +15,7 @@ remediation.
 
 ## Infected Files Information
 
-![Image Alt](
+![Image Alt](https://github.com/ErnestTechCyb/Blue-Team-Cyber-Trojan-Mirage/blob/84e83d04f401e85a119846ba58ab038d4fbf4f6a/files.png)
 
 ## Warning message
 
