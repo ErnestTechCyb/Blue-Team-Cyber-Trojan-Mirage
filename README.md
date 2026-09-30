@@ -7,4 +7,9 @@
 Not every signal is a threat, and not every threat announces itself.  No two runs play out the same. The network shifts, the traps evolve. 
 Only the sharpest eyes see through the illusion.  
 
+## Scenario Prompt:
+
+A user reported that their computer is locked in fullscreen browser mode, displaying a list of infected files, while persistent notifications pop up about 
+the infections.  The desktop wallpaper has been altered to show a message claiming the files are infected, along with contact instructions for supported
+remediation.
 
