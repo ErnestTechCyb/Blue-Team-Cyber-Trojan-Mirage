@@ -23,7 +23,7 @@ remediation.
 
 ## Analyze the network topology to find IP address connections
 
-![Image Alt](
+![Image Alt](https://github.com/ErnestTechCyb/Blue-Team-Cyber-Trojan-Mirage/blob/f41027e289bc982a06bf814b09777dbf15356420/network%20topology.png)
 
 ## Searched for message details in the local user computer
 
