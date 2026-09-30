@@ -13,3 +13,10 @@ A user reported that their computer is locked in fullscreen browser mode, displa
 the infections.  The desktop wallpaper has been altered to show a message claiming the files are infected, along with contact instructions for supported
 remediation.
 
+## Infected Files Information
+
+![Image Alt](
+
+## Warning message
+
+![Image Alt]( 
