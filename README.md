@@ -27,4 +27,6 @@ remediation.
 
 ## Searched for message details in the local user computer
 
-![Image Alt](
+![Image Alt](https://github.com/ErnestTechCyb/Blue-Team-Cyber-Trojan-Mirage/blob/6556924010b2920279f3042d1c9d80cc3ce369c3/message.png)
+
+
