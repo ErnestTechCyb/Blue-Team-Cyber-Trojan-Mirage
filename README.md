@@ -37,7 +37,7 @@ The goal of the blue team were  to investigate a simulated ransomware attack on 
 
 ## Use Security Onions, Splunk, Palo Alto to run further investigation
 
-![Image Alt](
+![Image Alt](https://github.com/ErnestTechCyb/Blue-Team-Cyber-Trojan-Mirage/blob/25eec4daa446fc7dcca89b5dae4e844b65e80665/splunk.png)
 
 ![Image Alt](
 
