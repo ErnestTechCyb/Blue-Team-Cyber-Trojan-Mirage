@@ -1,3 +1,3 @@
 ## Blue-Team-Cyber-Trojan-Mirage
 
-![Image Alt]<
+![Image Alt](
