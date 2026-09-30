@@ -57,8 +57,8 @@ Main focused was on analyzing a potential malware incident involving a Word docu
 
 ##  Conclusion
 
-My main focused was to investigate a security incident involving a remote access Trojan (RAT) disguised as a Splunk forwarder, explaining the chain of events from the initial email attachment with a macro to the execution of malicious files. The team examined firewall logs to verify lateral movement and confirmed limited external network activity, with no further internal compromise detected. The conversation ended with plans to review two suspicious executables and implement immediate remediation steps to prevent future incidents.
-They agreed to block two malicious IP addresses through Palo Alto networks firewall, remove malicious files including a remote access Trojan and Word document, and conduct thorough documentation of the incident timeline. The group also planned to implement user training about avoiding downloads from untrusted sources and to hold a lessons learned meeting to discuss improved security policies and proactive measures.
+My main focused was to investigate a security incident involving a remote access Trojan (RAT) disguised as a Splunk forwarder. Additional findings involved the chain of events from the initial email attachment with a macro to the execution of malicious files. I examined the firewall logs to verify lateral movement and confirmed limited external network activity, with no further internal compromise detected. I documented and reviewed two suspicious executables and implemented immediate remediation steps to prevent future incidents.
+Futhermore, I blocked two malicious IP addresses through Palo Alto networks firewall, removed malicious files including a remote access Trojan and Word document, and conducted thorough documentation of the incident timeline. To prevent this situation from happening again I implement user training about avoiding downloads from untrusted sources and to hold a lessons learned meeting to discuss improved security policies and proactive measures.
 
 ## Certificate earned
 
