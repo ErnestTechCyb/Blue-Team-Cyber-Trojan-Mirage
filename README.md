@@ -19,4 +19,6 @@ remediation.
 
 ## Warning message
 
-![Image Alt]( 
+![Image Alt](https://github.com/ErnestTechCyb/Blue-Team-Cyber-Trojan-Mirage/blob/8b6e5b5c46b3dbc1ff0cac90e9d99809597c6451/warning%20message.png)
+
+
