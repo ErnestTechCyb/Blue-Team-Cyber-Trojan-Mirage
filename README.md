@@ -5,13 +5,12 @@
 ![Image Alt](https://github.com/ErnestTechCyb/Blue-Team-Cyber-Trojan-Mirage/blob/34a9cfaacc16b47910a901afa91181ee384e1ffd/Introduction.png)
 
 Not every signal is a threat, and not every threat announces itself.  No two runs play out the same. The network shifts, the traps evolve. 
-Only the sharpest eyes see through the illusion.  
+Only the sharpest eyes see through the attack !!! 
 
-## Scenario Prompt:
+## Scenario Prompt
 
-A user reported that their computer is locked in fullscreen browser mode, displaying a list of infected files, while persistent notifications pop up about 
-the infections.  The desktop wallpaper has been altered to show a message claiming the files are infected, along with contact instructions for supported
-remediation.
+A user reported that her computer was locked in fullscreen browser mode, displaying a list of infected files, and persistent notification pop-ups about 
+the infections.  The desktop wallpaper was altered to show a message claiming some files were infected.
 
 ## Infected Files Information
 
@@ -29,13 +28,13 @@ remediation.
 
 ![Image Alt](https://github.com/ErnestTechCyb/Blue-Team-Cyber-Trojan-Mirage/blob/6556924010b2920279f3042d1c9d80cc3ce369c3/message.png)
 
-Reviewed the process of investigating a potential compromise on Safina's workstation, by checking recent downloads and system changes. Identified that the incident appeared to involve an email and a Word document download, documented my findings and cross-referenced timestamps to understand the extent of the incident.
+Reviewed the process of investigating a potential compromise on Safina's workstation, by checking recent downloads and system changes. Identified that the incident appeared to involve an email and a Word document download, documented my findings and cross-referenced timestamps to understand the timing of the incident.
 
 ## Project Objective
 
-Investigate a simulated ransomware attack on Zafina Young's workstation. Analyzed network topology, examined log files in Splunk and Security Onion tools, and identified indicators of compromise including external IP addresses and malicious files. Learned how to trace the attack vector from a macro-enabled Word document downloaded through reverse TCP connections to a remote access Trojan (RAT) that displayed full-screen warning messages and altered desktop wallpaper. The investigation revealed that the attack started with spear phishing targeting specific user Zafina Young, with the malicious chain involving email attachments, disabled macros, and multiple executable files masquerading as legitimate system processes. In addition, identified and executed the key remediation steps including blocked the external IP addresses, removed malicious files, documented the incident, and implemented user training to prevent future attacks.
+Investigated a simulated ransomware attack on Zafina Young's workstation. Analyzed network topology, examined log files in Splunk and Security Onion tools, and identified indicators of compromise including external IP addresses and malicious files. Learned how to trace the attack vector from a macro-enabled Word document downloaded through reverse TCP connections to a Remote Access Trojan (RAT) that displayed full-screen warning messages and altered desktop wallpaper. The investigation revealed that the attack started with spear phishing targeting specific user Zafina Young, with the malicious chain involving email attachments, disabled macros, and multiple executable files masquerading as legitimate system processes. In addition, identified and executed the key remediation steps, which are blocking the external IP addresses, removing malicious files, documenting the incident, and implementing user training to prevent future attacks.
 
-## Use Security Onions, Splunk, Palo Alto Netwoks to run further investigation
+## Used Security Onions, Splunk, Palo Alto Netwoks to run further investigation
 
 ![Image Alt](https://github.com/ErnestTechCyb/Blue-Team-Cyber-Trojan-Mirage/blob/25eec4daa446fc7dcca89b5dae4e844b65e80665/splunk.png)
 
@@ -51,13 +50,13 @@ Investigate a simulated ransomware attack on Zafina Young's workstation. Analyze
 
 ## Malware Analysis Investigation
 
-Main focused was on analyzing a potential malware incident involving a Word document with macros that could download and execute malicious files. I identified that the document contained a reverse TCP connection that would download cmd.exe and a Splunk forwarder, which would then spawn other processes including a virus scanner. 
+This project mainly focused on analyzing a potential malware incident involving a Word document with macros that could download and execute malicious files. Identified that the document contained a reverse TCP connection that would download cmd.exe and a Splunk forwarder, which would then spawn other processes including a virus scanner. 
 
 ![Image Alt](https://github.com/ErnestTechCyb/Blue-Team-Cyber-Trojan-Mirage/blob/28dd3b716075fd931fc3bcb0a9890686467ce93a/information%20-%20finding.png)
 
 ##  Conclusion
 
-My main focused was to investigate a security incident involving a remote access Trojan (RAT) disguised as a Splunk forwarder. Additional findings involved the chain of events from the initial email attachment with a macro to the execution of malicious files. I examined the firewall logs to verify lateral movement and confirmed limited external network activity, with no further internal compromise detected. I documented and reviewed two suspicious executables and implemented immediate remediation steps to prevent future incidents.
+The focus of this project was to investigate a security incident involving a Remote Access Trojan (RAT) disguised as a Splunk forwarder. Additional findings involved the chain of events from the initial email attachment with a macro to the execution of malicious files. I examined the firewall logs to verify lateral movement and confirmed limited external network activity, with no further internal compromise detected. I documented and reviewed two suspicious executables and implemented immediate remediation steps to prevent future incidents.
 Futhermore, I blocked two malicious IP addresses through Palo Alto networks firewall, removed malicious files including a remote access Trojan and Word document, and conducted thorough documentation of the incident timeline. To prevent this situation from happening again I recommeded user training about avoiding downloads from untrusted sources and to hold lessons learned meeting to discuss improved security policies and proactive measures.
 
 ## Certificate earned
