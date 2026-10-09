@@ -20,7 +20,7 @@ the infections.  The desktop wallpaper was altered to show a message claiming so
 
 ![Image Alt](https://github.com/ErnestTechCyb/Blue-Team-Cyber-Trojan-Mirage/blob/8b6e5b5c46b3dbc1ff0cac90e9d99809597c6451/warning%20message.png)
 
-## Analyze the network topology to find IP address connections
+## Analyzed the network topology to find IP address connections
 
 ![Image Alt](https://github.com/ErnestTechCyb/Blue-Team-Cyber-Trojan-Mirage/blob/f41027e289bc982a06bf814b09777dbf15356420/network%20topology.png)
 
@@ -50,14 +50,14 @@ Investigated a simulated ransomware attack on Zafina Young's workstation. Analyz
 
 ## Malware Analysis Investigation
 
-This project mainly focused on analyzing a potential malware incident involving a Word document with macros that could download and execute malicious files. Identified that the document contained a reverse TCP connection that would download cmd.exe and a Splunk forwarder, which would then spawn other processes including a virus scanner. 
+This project mainly focused on analyzing a potential malware incident involving a Word document with macros that could download and execute malicious files. Identified that the document contained a reverse TCP connection that would download cmd.exe and a Splunk forwarder (malicious executable file), which would then spawn other processes including a virus scanner. 
 
 ![Image Alt](https://github.com/ErnestTechCyb/Blue-Team-Cyber-Trojan-Mirage/blob/28dd3b716075fd931fc3bcb0a9890686467ce93a/information%20-%20finding.png)
 
 ##  Conclusion
 
-The focus of this project was to investigate a security incident involving a Remote Access Trojan (RAT) disguised as a Splunk forwarder. Additional findings involved the chain of events from the initial email attachment with a macro to the execution of malicious files. I examined the firewall logs to verify lateral movement and confirmed limited external network activity, with no further internal compromise detected. I documented and reviewed two suspicious executables and implemented immediate remediation steps to prevent future incidents.
-Futhermore, I blocked two malicious IP addresses through Palo Alto networks firewall, removed malicious files including a remote access Trojan and Word document, and conducted thorough documentation of the incident timeline. To prevent this situation from happening again I recommeded user training about avoiding downloads from untrusted sources and to hold lessons learned meeting to discuss improved security policies and proactive measures.
+The focus of this project was to investigate a security incident involving a Remote Access Trojan (RAT) disguised as a Splunk forwarder. Additional findings involved the chain of events from the initial email attachment with a macro to start the execution of malicious files. Examined the firewall logs to verify lateral movement and confirmed limited external network activity, with no further internal compromise detected. Documented and reviewed two suspicious executables and implemented immediate remediation steps to prevent future incidents.
+Furthermore, blocked two malicious IP addresses through Palo Alto Networks firewall, removed malicious files including a Remote Access Trojan and Word document, and conducted thorough documentation of the incident timeline. To prevent this situation from happening again user training about avoiding downloads from untrusted sources was recommended and to attend lessons learned meeting to discuss improved security policies and proactive measures.
 
 ## Certificate earned
 
