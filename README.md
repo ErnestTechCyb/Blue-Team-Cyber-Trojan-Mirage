@@ -7,7 +7,7 @@ Only the sharpest eyes see through the attack !!!
 
 ## Scenario Prompt
 
-A user reported that her computer was locked in fullscreen browser mode, displaying a list of infected files, and persistent notification pop-ups about 
+A user reported that his computer was locked in fullscreen browser mode, displaying a list of infected files, and persistent notification pop-ups about 
 the infections.  The desktop wallpaper was altered to show a message claiming some files were infected.
 
 ## Infected Files Information
@@ -26,7 +26,7 @@ the infections.  The desktop wallpaper was altered to show a message claiming so
 
 ![Image Alt](https://github.com/ErnestTechCyb/Blue-Team-Cyber-Trojan-Mirage/blob/6556924010b2920279f3042d1c9d80cc3ce369c3/message.png)
 
-Reviewed the process of investigating a potential compromise on Safina's workstation, by checking recent downloads and system changes. Identified that the incident appeared to involve an email and a Word document download, documented my findings and cross-referenced timestamps to understand the timing of the incident.
+Reviewed the process of investigating a potential compromise on John Smith's workstation, by checking recent downloads and system changes. Identified that the incident appeared to involve an email and a Word document download, documented my findings and cross-referenced timestamps to understand the timing of the incident.
 
 ## Project Objective
 
